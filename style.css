@@ -1,12 +1,13 @@
 body {
-	background-image: url(background-us-close.jpg);
+	background-image: url(background-us-close.JPG);
 	background-size: cover;
 }
 
 #site-content {
   display: block;
-  margin: 0 auto;
+  margin: 40 auto;
   width: 800px;
+  height: 700px;
   background-color: rgba(20, 20, 20, .5);
   background-image: repeating-linear-gradient(-45deg, black, black .1px, transparent 1px, transparent 5px);
 }
